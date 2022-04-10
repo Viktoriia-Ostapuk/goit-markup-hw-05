@@ -252,20 +252,18 @@ width: 528px;
 height: 581px; 
 background-color: var(--light-txt-cl); 
 
-
 }
+
 .close-btn {
     position: absolute;
     display: flex;
     align-items: center;
     justify-content: center;
-
     border: 1px solid rgba(0, 0, 0, 0.1);
     width: 30px;
     height: 30px;
-    background-color: transparent;
     border-radius: 50%;
-    border: 1px solid #000000;
+  
 }
 
  
