@@ -755,6 +755,11 @@ align-self: center;
     transform: translate(0);
     transition-duration: 250ms;
 }
+.card-design:focus .card-text{
+    transform: translate(0);
+    transition-duration: 250ms;
+    
+}
 
 .card-overlayy{
     position: relative;
